@@ -26,36 +26,46 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-d043a3d74f9664d1c08c.js"
+    "url": "webpack-runtime-1bc41974e0df6f1362b7.js"
   },
   {
-    "url": "app.a2f933b7ab5f58f2ecfb.css"
+    "url": "styles.319712d3e7fffa8163a7.css"
   },
   {
-    "url": "app-385fe306fafef602ccf1.js"
+    "url": "styles-6ccf68a0aeee20529259.js"
   },
   {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-ec2d2698dbb19486a1ce.js"
+    "url": "app-07ede7cd6af0ded7a2e5.js"
+  },
+  {
+    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-d9ae979515707f940a20.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "e18225a07e53ddaa5673a5ab5af6939b"
+    "revision": "39ba46778062a443d34da6b104e7a387"
+  },
+  {
+    "url": "google-fonts/s/ibmplexsans/v5/zYXgKVElMYYaJe8bpLHnCwDKhdHeFQ.woff2",
+    "revision": "263d6267533501f58c33b12b382e3abb"
   },
   {
     "url": "google-fonts/s/ibmplexsans/v6/zYXgKVElMYYaJe8bpLHnCwDKhdHeFQ.woff2",
     "revision": "263d6267533501f58c33b12b382e3abb"
   },
   {
-    "url": "component---src-pages-404-js-dbd2fe9e6a363777c119.js"
+    "url": "component---src-pages-404-js-209f2afaaeeb5ab51c2c.js"
   },
   {
-    "url": "0-4204cefb8a6076e8dcb8.js"
+    "url": "1-4a1780e44c8182f20d67.js"
   },
   {
-    "url": "static/d/786/path---404-html-516-62a-Nb0cl28rQcJri5ZL2LVVpvJ5JQ.json"
+    "url": "0-5ece985ea6341bd0444e.js"
   },
   {
-    "url": "static/d/520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E.json"
+    "url": "static/d/735/path---404-html-516-62a-Ne7Y3yPZkboRTlV3MyQ6hvFiNF8.json"
+  },
+  {
+    "url": "static/d/604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8.json"
   },
   {
     "url": "manifest.webmanifest",
