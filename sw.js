@@ -35,18 +35,14 @@ self.__precacheManifest = [
     "url": "styles-9897c860e614a2e41ede.js"
   },
   {
-    "url": "app-52613350d0546654106b.js"
+    "url": "app-527146bfb2e503824dcf.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-9408b308a91be3465c64.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "e76005ff4234d0c9bcf19472dfcd5c0c"
-  },
-  {
-    "url": "google-fonts/s/ibmplexsans/v6/zYXgKVElMYYaJe8bpLHnCwDKhdHeFQ.woff2",
-    "revision": "263d6267533501f58c33b12b382e3abb"
+    "revision": "d56aa81d98f6e93c8733b31888c2b51c"
   },
   {
     "url": "google-fonts/s/ibmplexsans/v7/zYXgKVElMYYaJe8bpLHnCwDKhdHeFQ.woff2",
@@ -54,10 +50,6 @@ self.__precacheManifest = [
   },
   {
     "url": "google-fonts/s/rancho/v10/46kulbzmXjLaqZRVam_h.woff2",
-    "revision": "7de3315082ccf61c77635e1b1aec8dcd"
-  },
-  {
-    "url": "google-fonts/s/rancho/v9/46kulbzmXjLaqZRVam_h.woff2",
     "revision": "7de3315082ccf61c77635e1b1aec8dcd"
   },
   {
@@ -71,7 +63,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "d91ca55a767b487e32057990a6e93f73"
+    "revision": "a2706b2ea8fdd888743b7c6e872bbbe1"
   },
   {
     "url": "manifest.webmanifest",
