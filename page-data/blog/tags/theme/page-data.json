@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-sh-4-hids-gatsby-theme-open-sourcerer-src-templates-tag-js",
+    "path": "/blog/tags/theme/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"id":"28fc11af-6a78-5004-abe8-287f8eb3c1cf","fields":{"slug":"/2021/08/24/published-my-first-gatsby-theme/"},"excerpt":"Recently I was planning to redesign my portfolio. I planned to make it minimal and focus on showcasing my open-source works and writings. As…","timeToRead":2,"frontmatter":{"title":"Published My First Gatsby Theme","tags":["gatsby","theme","portfolio"],"publishedAt":"2021-08-24"}}}]},"site":{"siteMetadata":{"blogPath":"blog"}}},"pageContext":{"tag":"theme"}},
+    "staticQueryHashes": ["1066969672","1349029593","3803536959","3825412538","3941996707","4259536812"]}
