@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---node-modules-sh-4-hids-gatsby-theme-open-sourcerer-src-templates-tag-js",
-    "path": "/blog/tags/google-analytics/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"id":"46b36263-8ff4-505f-8c90-14ade972728e","fields":{"slug":"/2021/09/11/delay-loading-of-google-analytics-gtag-in-gatsby-site/"},"excerpt":"Working with the gatsby.js site and google analytics is a little bit tricky if you consider performance. With the latest lighthouse version…","timeToRead":2,"frontmatter":{"title":"Delay Loading Of Google Analytics (gtag) In Gatsby Site","tags":["gatsby","google analytics","github actions"],"publishedAt":"2021-09-11"}}}]},"site":{"siteMetadata":{"blogPath":"blog"}}},"pageContext":{"tag":"google analytics"}},
-    "staticQueryHashes": ["1066969672","1349029593","3803536959","3825412538","3941996707","4259536812"]}
