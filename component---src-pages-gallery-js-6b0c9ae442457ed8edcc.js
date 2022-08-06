@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkshahid_pro=self.webpackChunkshahid_pro||[]).push([[822],{6182:function(e,r,t){t.r(r);var l=t(7294),a=t(5444),n=t(9921),s=t(6723),i=t(941);r.default=function(){var e=((0,a.useStaticQuery)("3636222547").allFlowersJson||{}).nodes;return l.createElement(s.H,{title:"Gallery",description:"",url:"/gallery/"},l.createElement(n.xv,{variant:"h2"},"My Flower Collection"),l.createElement(i.E,{images:e}))}}}]);
-//# sourceMappingURL=component---src-pages-gallery-js-6b0c9ae442457ed8edcc.js.map
