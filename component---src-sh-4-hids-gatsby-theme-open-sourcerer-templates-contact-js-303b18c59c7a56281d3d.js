@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshahid_pro=self.webpackChunkshahid_pro||[]).push([[64],{6946:function(e,t,a){a.r(t);var i=a(7294),n=a(1082),r=a(7481),c=a(5873);t.default=function(){var e=(0,n.useStaticQuery)("3466762410");return i.createElement(c.H,{title:"Contact",description:"",url:"/contact/"},i.createElement(r.xv,null,"Email: ",e.site.siteMetadata.author.email||"not specified"))}}}]);
+//# sourceMappingURL=component---src-sh-4-hids-gatsby-theme-open-sourcerer-templates-contact-js-303b18c59c7a56281d3d.js.map
