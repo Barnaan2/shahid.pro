@@ -17,7 +17,7 @@ I started researching and read a lot of articles and StackOverflow questions reg
 An API key or Client ID is a unique key to identify a user. Like a username or email, it must be unique. It should be unguessable too. We don't have to encrypt it. We can generate an API key by using the `crypto` package from Node.js. You can use the following code to generate an API key.
 
 ```javascript
-const { randomBytes } = require('crypto');
+const crypto = require('crypto');
 
 function generateKey(size = 32, format = 'base64') {
   const buffer = crypto.randomBytes(size);
